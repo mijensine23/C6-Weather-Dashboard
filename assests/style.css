@@ -1,0 +1,51 @@
+.header {
+    background:#142b43;
+    padding: 25px;
+}
+h1 {
+    font-family: 'Roboto' , sans-serif;
+    text-align: end;
+    color: #9ca9b1;
+}
+h5{
+    text-align: center;
+}
+/*styling applying to full body*/
+
+body{
+    background: #9ca9b1;
+}
+.container{
+    padding: 20px 5px !important;
+}
+button {
+    background: grey !important;
+    color: #e6e4e3 !important;
+}
+.card-header{
+    background-color: #d0836e;
+}
+.card-body{
+    background-color:#f4e3d7;
+
+}
+
+/*forcast card */
+.forecast {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.forecast .card-header {
+    padding: 10px;
+    text-align: center;
+    font-size: 1.0rem;
+}
+.forecast .card-body {
+    padding: 10px;
+    text-align: left;
+    font-size: 1.0rem;
+}
+
